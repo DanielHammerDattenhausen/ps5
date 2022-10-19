@@ -1,0 +1,6 @@
+{"type":["init_ps"],"time":["2022-10-19 14:14:34"],"user":["Daniel Kanz"],"umph":[1666181674.8908],"ok":[true]}
+,
+{"type":["check_chunk"],"time":["2022-10-19 14:14:35"],"user":["Daniel Kanz"],"umph":[1666181675.6224],"ok":[true],"chunk":[1],"ex":[1],"e.ind":[0],"code":["library(wooldridge)\ndata(wage1)\nhead(wage1)\nskim(wage1)"],"message":[""]}
+,
+{"type":["check_chunk"],"time":["2022-10-19 14:14:35"],"user":["Daniel Kanz"],"umph":[1666181675.6473],"ok":[false],"chunk":[2],"ex":[1],"e.ind":[1],"code":["\n# enter your code here ...\n"],"message":["\nYou have not yet made an assignment to reg1 in chunk 1_b."]}
+,
